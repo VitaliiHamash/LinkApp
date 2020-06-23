@@ -1,0 +1,6 @@
+{
+    "port":9000,
+    "jwtSecret":"testapplink",
+    "mongoUri": "mongodb://localhost/AppLink"
+    
+}
